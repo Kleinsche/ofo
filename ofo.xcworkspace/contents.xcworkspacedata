@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:&#x4e2d;&#x56fd;&#x82cf;&#x5dde;&#x5e02;&#x5434;&#x4e2d;&#x533a;&#x6caa;&#x5b81;&#x57ce;&#x94c1;&#x56ed;&#x533a;&#x7ad9; &#x90ae;&#x653f;&#x7f16;&#x7801;_ 215000.gpx">
+   </FileRef>
+   <FileRef
+      location = "group:ofo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
